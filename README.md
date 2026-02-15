@@ -6,12 +6,9 @@
 
 > **Note**: GitHub READMEs cannot directly play videos hosted on Google Drive. Please click the banner below to watch the demo.
 
-<a href="https://drive.google.com/file/d/1M56bnzUFGKf_lF40eNcxM8HQ3rB6KO5W/view?usp=sharing" target="_blank">
- <div align="center">
-    <h3>▶️ Click Here to Watch My Graduation Project Video</h3>
- </div>
-</a>
-
+<h3 align="center">
+  <a href="https://drive.google.com/file/d/1M56bnzUFGKf_lF40eNcxM8HQ3rB6KO5W/view?usp=sharing">▶️ Click Here to Watch My Graduation Project Video</a>
+</h3>
 
 ## ✨ Key Features
 
@@ -101,6 +98,5 @@ Contributions are what make the open source community such an amazing place to l
 5. Open a Pull Request
 
 
+---
 *Built with ❤️ by the Drive Wise Team*
-
-
