@@ -22,6 +22,9 @@
   - Personalized settings.
   - Secure "Change Password" functionality.
 - **📊 Real-Time Dashboard**: Visual feedback on driving performance with instant updates.
+- **🚗 Smart Car Embedded System**: Comprehensive system with real-time safety integration.
+- **🛡️ Advanced Safety Algorithms**: Includes speed control, distance monitoring, and drowsiness detection.
+- **📡 FOTA Updates**: Firmware Over The Air capability for remote system maintenance.
 
 ## 🛠️ Tech Stack
 
@@ -97,6 +100,6 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
 ---
 *Built with ❤️ by the Drive Wise Team*
+
